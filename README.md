@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasoumi&theme=great-gatsby&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadmasoumi)](https://github.com/anuraghazra/github-readme-stats)
 
-
-I'm currently working in  
 
 I started learning and becoming a developer when I was at university. Until now I’ve been trying to hone
-my skills in both DevOps and Backend. Although I prefer to work as a backend developer, I feel comfortable working as a front-end developer occasionally.
+my skills in both DevOps and Backend. Although I prefer to work as a backend developer, 
+I feel comfortable working as a front-end developer occasionally.
 
 I am ambitious adventurous assiduous animated and so eager to learn new skills and improve my current ones and also I am open to trying new experiences and new technologies.
 
