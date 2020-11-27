@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammadmasoumi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+I'm currently working in  
+
+I started learning and becoming a developer when I was at university. Until now I’ve been trying to hone
+my skills in both DevOps and Backend. Although I prefer to work as a backend developer, I feel comfortable working as a front-end developer occasionally.
+
+I am ambitious adventurous assiduous animated and so eager to learn new skills and improve my current ones and also I am open to trying new experiences and new technologies.
+
+I would expect to work in a team with great teamwork and collaboration and having professional
+members and also in a motivating environment with enthusiastic peoples involved. 
