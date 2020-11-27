@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohammad Masoumi
 
 <!--
 **mohammadmasoumi/mohammadmasoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasoumi&theme=great-gatsby&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasoumi&theme=great-gatsby&layout=compact&langs_count=10)]//(https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 I started learning and becoming a developer when I was at university. Until now I’ve been trying to hone
