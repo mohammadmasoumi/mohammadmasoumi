@@ -38,7 +38,7 @@ members and also in a motivating environment with enthusiastic peoples involved.
 
 ## How to reach me
 
-="https://www.linkedin.com/in/mohammad-masoumi-1523aba9/">
+<a href="https://www.linkedin.com/in/mohammad-masoumi-1523aba9/">
   <img align="left" alt="Mohamamd's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mohammadmasoumi74/">
@@ -46,5 +46,5 @@ members and also in a motivating environment with enthusiastic peoples involved.
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=mohammadmasoumi/mohammadmasoumi)
 
