@@ -35,3 +35,16 @@ I am ambitious adventurous assiduous animated and so eager to learn new skills a
 
 I would expect to work in a team with great teamwork and collaboration and having professional
 members and also in a motivating environment with enthusiastic peoples involved. 
+
+## How to reach me
+
+="https://www.linkedin.com/in/mohammad-masoumi-1523aba9/">
+  <img align="left" alt="Mohamamd's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mohammadmasoumi74/">
+  <img align="left" alt="Mohamamd's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
