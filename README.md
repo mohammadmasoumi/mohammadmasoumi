@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmasoumi&theme=great-gatsby&layout=compact&langs_count=10)]//(https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## What I do
 
