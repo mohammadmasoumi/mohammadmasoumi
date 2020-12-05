@@ -17,15 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
-
-## What I do
-
-🔭 I’m currently working on scala filesystem which an open source project that represent a demo of filesystem.
-
-🌱 I’m currently learning scala and functional programming
-
-## What I am good at
-
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -40,6 +32,14 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+</p>
+
+## What I do
+
+🔭 I’m currently working on scala filesystem which an open source project that represent a demo of filesystem.
+
+🌱 I’m currently learning scala and functional programming
+
 
 ## About me
 
