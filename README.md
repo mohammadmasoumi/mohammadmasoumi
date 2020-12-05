@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <style>
 .flex-container {
   display: flex;
-  flex-wrap: nowrap;
+  : nowrap;
   background-color: DodgerBlue;
 }
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
-<div display="flex" flex-direction="row" justify-content="center">
+<div display="flex" flex-wrap="nowrap">
   
   <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></div>
   <div><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript" alt="javascript"></div>
