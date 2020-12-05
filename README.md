@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
+<p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></p>
+<p><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript"></p>
+<p><img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java" alt="java"></p>
 <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
+<p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
+<p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
+<p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
+
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
