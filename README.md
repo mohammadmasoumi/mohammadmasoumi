@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang)
+![Scala](https://img.shields.io/badge/-Scala-white?style=flat-square&logo=Scala)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
