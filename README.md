@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></p>
 <p><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript"></p>
-<p><img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java" alt="java"></p>
+<p><img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java" alt="java"></p>
 <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
 <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
 <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
