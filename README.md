@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Scala](https://img.shields.io/badge/-Scala-white?style=flat-square&logo=Scala)
+![Scala](https://img.shields.io/badge/-Scala-red?style=flat-square&logo=Scala)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-A34A86?style=flat-square&logo=java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
