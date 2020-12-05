@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 <div display="flex" flex-wrap="nowrap">
   
-  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></div>
-  <div><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript" alt="javascript"></div>
-  <div><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" alt="java"></div>
-  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript" alt="javascript"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" alt="java"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
 
 </div>
 
