@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
-<div  display="flex" flex-direction="row" justify-content="center">
+<div display="flex" flex-direction="row" justify-content="center">
   
-  <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></p>
-  <p><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript" alt="javascript"></p>
-  <p><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" alt="java"></p>
-  <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
-  <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
-  <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
-  <p><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></p>
+  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></div>
+  <div><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript" alt="javascript"></div>
+  <div><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" alt="java"></div>
+  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
+  <div><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
 
 </div>
 
