@@ -14,38 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-.flex-container {
-  display: flex;
-  : nowrap;
-  background-color: DodgerBlue;
-}
-
-.flex-container > div {
-  background-color: #f1f1f1;
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-}
-</style>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
-<div display="flex" flex-wrap="nowrap">
-  
-  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"></div>
-  <div text-align= "center"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript" alt="javascript"></div>
-  <div text-align= "center"><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java" alt="java"></div>
-  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-  <div text-align= "center"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"></div>
-
-</div>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
