@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Shell](https://img.shields.io/badge/-Shell-green?style=flat-square&logo=Shell)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-FCA121?style=flat-square&logo=github)
+
 
 
 ## What I do
