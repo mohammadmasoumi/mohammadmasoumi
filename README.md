@@ -49,6 +49,11 @@ I am ambitious adventurous assiduous animated and so eager to learn new skills a
 I would expect to work in a team with great teamwork and collaboration and having professional
 members and also in a motivating environment with enthusiastic peoples involved. 
 
+## Pronouns
+
+he/his
+
+
 ## How to reach me
 
 <a href="https://www.linkedin.com/in/mohammad-masoumi-1523aba9/">
