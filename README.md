@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadmasoumi&count_private=true&theme=great-gatsby&show_icons=true" alt="github-status" />
 
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-red?style=flat-square&logo=Scala)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
