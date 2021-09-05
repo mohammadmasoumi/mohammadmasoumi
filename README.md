@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![C](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=c)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## What I do
