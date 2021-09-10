@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ## What I do
 
-🔭 I’m currently working on scala filesystem which an open source project that represent a demo of filesystem.
+🔭 I’m currently working on c-tutorial which is an open-source project that I'll share what I've learned in C.
 
-🌱 I’m currently learning scala and functional programming
+🌱 I’m currently learning C and C++.
 
 
 ## About me
