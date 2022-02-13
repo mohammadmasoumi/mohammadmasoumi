@@ -37,14 +37,13 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23007ACC.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
 
 
 ## What I do
 
-🔭 I’m currently working on c-tutorial which is an open-source project that I'll share what I've learned in C.
+🔭 I’m currently working on a django-tutorial which is an open-source project that I'll share what I've learned in django.
 
 🌱 I’m currently learning rust.
 
