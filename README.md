@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on c-tutorial which is an open-source project that I'll share what I've learned in C.
 
-🌱 I’m currently learning C and C++.
+🌱 I’m currently learning rust.
 
 
 ## About me
