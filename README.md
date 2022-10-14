@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ## What I do
 
-🔭 I’m currently working on a django-tutorial which is an open-source project that I'll share what I've learned in django.
+🔭 I’m currently working on a django-tutorial and reactjs-tutorial which is an open-source project that I'll share what I've learned in django.
 
-🌱 I’m currently learning rust.
+🌱 I’m currently learning rust and reactjs.
 
 
 ## About me
